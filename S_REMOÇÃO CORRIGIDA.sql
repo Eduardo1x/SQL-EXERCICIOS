@@ -1,0 +1,7 @@
+USE LOCACAO1;
+GO
+
+DROP TABLE Aluguel.Aluga;
+DROP TABLE Aluguel.VEICULO;
+DROP TABLE Aluguel.TIPO_VEICULO;
+DROP TABLE Aluguel.Cliente;
